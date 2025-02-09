@@ -13,6 +13,7 @@ Kafka Simulator adalah aplikasi berbasis **Node.js** dan **React.js** yang digun
 ### **1. Instalasi Dependensi**
 
 ```sh
+ cd kafka-simulator/
  npm install
 ```
 
@@ -31,7 +32,7 @@ Karena saya disini menggunakan docker untuk menjalankan Apache Kafka nya, maka d
 ```
 
 ### **5. Menjalankan Frontend**
-masuk ke dalam folder kafka-simulator/ dan jalan command berikut
+masuk ke dalam folder kafka-simulator/ dan jalankan command berikut
 ```sh
  npm start
 ```
