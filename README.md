@@ -27,11 +27,11 @@ Karena saya disini menggunakan docker untuk menjalankan Apache Kafka nya, maka d
 ### **4. Menjalankan Backend**
 
 ```sh
- node server.js
+ node kafka-simulator/server.js
 ```
 
 ### **5. Menjalankan Frontend**
-
+masuk ke dalam folder kafka-simulator/ dan jalan command berikut
 ```sh
  npm start
 ```
